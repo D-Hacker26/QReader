@@ -6,10 +6,6 @@ This is the splash screen of the app.
 <img src="./assets/splash.jpeg" width="250" height="450">
 </p>
 
-## Demo
-A link of demo 
-* https://drive.google.com/file/d/16BEg9oXVZRdyqiKe69u0MLiU0dII9e9t/view
-
 ## Tech Stacks
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -72,12 +68,6 @@ There is another page for display all the favourite scan results to access  them
 ## 🚀 About Me
 I'm a Btech student of IIIT Allahabad. I have currently learned Android development in Kotlin and made some apps by the use of firebase authentication  and its realtime database
 
-## 🔗 Links
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Cool_Hubble/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
 ## Installation
 download the apk from my github repository.
 for code you can use git clone~.
@@ -91,7 +81,7 @@ Other things I have also learn about the architecture of an app like MVVM and ot
 
 ## Support
 
-For support, email luciferabhinavdevil666@gmail.com.
+For support, email deepanshu.26.g@gmail.com.
 
 
 
