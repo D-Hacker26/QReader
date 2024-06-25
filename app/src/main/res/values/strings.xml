@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AScan</string>
+    <string name="scan_me">SCAN ME</string>
+    <string name="scan">Scan</string>
+    <string name="history">History</string>
+    <string name="favourites">Favourites</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scan_history">Scan History</string>
+    <string name="qr_scanner">QR SCANNER</string>
+    <string name="upi">UPI</string>
+</resources>
