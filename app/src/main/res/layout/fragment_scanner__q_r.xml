@@ -15,7 +15,6 @@
         android:layout_height="22dp"
         android:layout_marginTop="16dp"
         android:background="@drawable/flash_backgroundselector"
-        android:src="@drawable/selector_switch"
         app:layout_constraintBottom_toTopOf="@+id/CamScanner"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
